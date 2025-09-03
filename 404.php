@@ -64,6 +64,7 @@ body {
           transform: translateX(-50%);
   background: url('image/bg.jpg') no-repeat;
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   background-size: cover;
   background-position: center;
